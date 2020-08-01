@@ -1,6 +1,6 @@
-# dice
+# Dice
 
-a dice app
+A dice game built using Dart & Flutter
 
 ## Getting Started
 
